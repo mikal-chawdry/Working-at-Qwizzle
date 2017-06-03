@@ -6,7 +6,7 @@
 
 Below you can find the current job or freelance opportunities at [Qwizzle](http://www.qwizzle.co.uk). Note that the below openings will be extented to the chosen candidate(s) on a temporary contract basis. No permanent positions of employment will be extended to any successful candidate.
 
-### UI/UX Designer
+### 1. UI/UX Designer
 
 #### Job Description
 
@@ -46,7 +46,7 @@ The below link shows a subset of the current designs for the app. These need to 
 
 ***
 
-### Front-End Web Developer
+### 2. Front-End Web Developer
 
 #### Job Description
 
