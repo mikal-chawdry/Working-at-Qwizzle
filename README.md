@@ -10,10 +10,19 @@ We are looking for a seasoned user-experience designer with demonstrated experie
 - Facilitating a client’s product visions by researching, conceiving, wireframing, sketching, prototyping, and mocking up user experiences for digital products.
 - Designing and delivering wireframes, user stories, user journeys, and mockups optimized for a wide range of devices and interfaces.
 - Identifying design problems and devising elegant solutions.
-- Making strategic design and user-experience decisions related to core and new functions and features.
+- Making strategic design and user-experience decisions related to existing and new features.
 - Taking a user-centered design approach and rapidly testing and iterating designs.
-- Collaborating with other front-end developers or experience with front end development is a bonus.
+- Reviewing, analysing and critiquing existing customer-centred designs
 - Taking smart risks and championing new ideas
+- Actively contributing to product direction
+- Collaborating with other front-end developers or experience with front end development is a bonus.
+
+Additionally, the ideal caniddate will have knowledge in the following areas:
+
+- UxPin
+- InVision
+
+
 
 #### Front end Developer
 
