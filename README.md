@@ -42,6 +42,7 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 
 - [Current designs](XXX)
 
+***
 
 ### Front-End Web Developer
 
