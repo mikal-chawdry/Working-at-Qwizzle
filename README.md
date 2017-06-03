@@ -2,7 +2,7 @@
 
 Welcome to the Qwizzle Job Board. Below you can find the current job or freelance opportunities at Qwizzle.
 
-#### UX Designer
+### UX Designer
 
 We are looking for a seasoned user-experience designer with demonstrated experience creating key deliverables such as detailed user journeys, user flows, wireframes, prototypes and UI design for complex web and mobile applications. The ideal candidate will have experience in:
 
@@ -24,7 +24,7 @@ Additionally, the ideal caniddate will have knowledge in the following areas:
 
 
 
-#### Front end Developer
+### Front end Developer
 
 
 
