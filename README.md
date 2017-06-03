@@ -2,9 +2,9 @@
 
 [Qwizzle](http://www.qwizzle.co.uk), and Edtech startup, is on a mission to help shape the future of education through the adoption of new pedagogies, adaptive assessment, teacher-student collaboration, and detailed performance monitoring. The Qwizzle platform, which is currently in development, aims to bring students, parents and teachers closer together in a child's educational journey, providing data driven insight to build up a current view of a student's ability and help shape future teaching strategies and development paths.
 
-## Qwizzle Job Board
+## Current Openings
 
-Below you can find the current job or freelance opportunities at [Qwizzle](http://www.qwizzle.co.uk).
+Below you can find the current job or freelance opportunities at [Qwizzle](http://www.qwizzle.co.uk). Note that the below openings are for contractors only and are not permanent roles.
 
 ### UI/UX Designer
 
@@ -62,7 +62,11 @@ We are looking for a Front-End Web Developer who is motivated to combine the art
 
 - Advanced understanding of web markup, including HTML5, CSS3
 - Advanced understanding of client-side scripting and JavaScript frameworks, including jQuery
+- Advanced understanding of asynchronous request handling, partial page updates, and AJAX
 - Proficient understanding of server-side CSS pre-processing platforms, such as LESS and SASS
+- Proficient understanding of cross-browser compatibility issues and ways to work around them.
+- Proficient understanding of Git
+- Good understanding of SEO principles and ensuring that application will adhere to them.
 - Experience working on Rails Applications is an advantage
 
 
