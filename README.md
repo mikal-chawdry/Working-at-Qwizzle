@@ -44,7 +44,7 @@ The below screenshots are a subset of the current designs for the app. These nee
 
 <img src="https://www.dropbox.com/s/bwnylr49bz2aowr/Quiz_Library_%E2%80%93_Year.png?raw=1">
 <img src="https://www.dropbox.com/s/pxmgn29d727r611/Quiz_Library_%E2%80%93_Year_4_Non_Verbal.png?raw=1">
-<img src="https://www.dropbox.com/s/5zmqe97us3oxq24/Quiz_Library_%E2%80%93_Year_4_Non_Verbal_Sub_Topics.png?raw=1"">
+<img src="https://www.dropbox.com/s/5zmqe97us3oxq24/Quiz_Library_%E2%80%93_Year_4_Non_Verbal_Sub_Topics.png?raw=1">
 <img src="https://www.dropbox.com/s/f0wgtz63pp5cf06/Student_Detail.png?raw=1">
 <img src="https://www.dropbox.com/s/r7kwvf966ruoqai/Add_Student.png?raw=1">
 <img src="https://www.dropbox.com/s/jmv8eslywle2blb/Notification_Drop_Down.png?raw=1">
