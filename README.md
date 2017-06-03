@@ -40,9 +40,7 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 
 #### Further Information
 
-The below link shows a subset of the current designs for the app. These need to be reviewed, critiqued improved and expanded upon.
-
-- [Current designs](https://projects.invisionapp.com/share/Q3BV59D7Y#/screens)
+The below screenshots are a subset of the current designs for the app. These need to be reviewed, critiqued improved and expanded upon.
 
 <img src="https://www.dropbox.com/s/bwnylr49bz2aowr/Quiz_Library_%E2%80%93_Year.png?raw=1">
 <img src="https://www.dropbox.com/s/pxmgn29d727r611/Quiz_Library_%E2%80%93_Year_4_Non_Verbal.png?raw=1">
