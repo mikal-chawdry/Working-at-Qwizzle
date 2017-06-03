@@ -1,5 +1,3 @@
-<img src="https://www.dropbox.com/s/bwnylr49bz2aowr/Quiz_Library_%E2%80%93_Year.png?raw=1">
-
 ## About Qwizzle
 
 [Qwizzle](http://www.qwizzle.co.uk), and Edtech startup, is on a mission to help shape the future of education through the adoption of new pedagogies, adaptive assessment, teacher-student collaboration, and detailed performance monitoring. The Qwizzle platform, which is currently in development, aims to bring students, parents and teachers closer together in a child's educational journey, providing data driven insight to build up a current view of a student's ability and help shape the student's learning and development path going forward.
@@ -46,7 +44,11 @@ The below link shows a subset of the current designs for the app. These need to 
 
 - [Current designs](https://projects.invisionapp.com/share/Q3BV59D7Y#/screens)
 
-<img src=“https://www.dropbox.com/s/bwnylr49bz2aowr/Quiz_Library_%E2%80%93_Year.png?dl=0”>
+<img src="https://www.dropbox.com/s/bwnylr49bz2aowr/Quiz_Library_%E2%80%93_Year.png?raw=1">
+<img src="https://www.dropbox.com/s/pxmgn29d727r611/Quiz_Library_%E2%80%93_Year_4_Non_Verbal.png?raw=1">
+<img src="https://www.dropbox.com/s/5zmqe97us3oxq24/Quiz_Library_%E2%80%93_Year_4_Non_Verbal_Sub_Topics.png?raw=1"">
+<img src="https://www.dropbox.com/s/f0wgtz63pp5cf06/Student_Detail.png?raw=1">
+<img src="https://www.dropbox.com/s/r7kwvf966ruoqai/Add_Student.png?raw=1">
 
 ***
 
