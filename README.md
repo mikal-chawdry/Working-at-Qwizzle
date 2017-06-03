@@ -32,6 +32,27 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 
 ### Front end Developer
 
+We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.
+
+#### Experience
+
+- 
+
+#### Responsibilities
+
+- Develop new user-facing features
+- Build reusable code and libraries for future use
+- Ensure the technical feasibility of UI/UX designs
+- Optimize application for maximum speed and scalability
+- Assure that all user input is validated before submitting to back-end
+- Collaborate with other team members and stakeholders
+
+#### Skills And Qualifications
+
+- Advanced understanding of web markup, including HTML5, CSS3
+- Advanced understanding of client-side scripting and JavaScript frameworks, including jQuery
+- Proficient understanding of server-side CSS pre-processing platforms, such as LESS and SASS
+- Experience working on Rails Applications is an advantage
 
 
 ## Interested in working on the project?
