@@ -1,6 +1,6 @@
 ## Qwizzle Job Board
 
-Welcome to the Qwizzle Job Board. Below you can find the current job or freelance opportunities at Qwizzle.
+Welcome to the Qwizzle Job Board. Below you can find the current job or freelance opportunities at (Qwizzle)[www.qwizzle.co.uk].
 
 ### UI/UX Designer
 
@@ -28,39 +28,6 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 
 
 
+### Contact
 
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikal-chawdry/Working-at-Qwizzle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are interested in one of the above opportunities, please get into contact with the Project Lead Mikal Chawdry at mikal@qwizzle.co.uk
