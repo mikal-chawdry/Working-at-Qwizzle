@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Qwizzle Job Board
 
 Welcome to the Qwizzle Job Board. Below you can find the current job or freelance opportunities at Qwizzle.
 
