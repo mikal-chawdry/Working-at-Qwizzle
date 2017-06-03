@@ -32,4 +32,4 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 
 ### Contact
 
-If you are interested in one of the above opportunities, please get into contact with the Project Lead Mikal Chawdry at mikal@qwizzle.co.uk
+If you are interested in one of the above opportunities, please get into contact with the Project Lead **Mikal Chawdry** at mikal@qwizzle.co.uk
