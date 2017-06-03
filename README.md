@@ -11,6 +11,8 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 - Designing and delivering wireframes, user stories, user journeys, and mockups optimized for a wide range of devices and interfaces.
 - Identifying design problems and devising elegant solutions.
 - Making strategic design and user-experience decisions related to existing and new features.
+- Designing experiences for adaptive content.
+- Applying responsive web design practices to shape UI and UX decisions.
 - Taking a user-centered design approach and rapidly testing and iterating designs.
 - Reviewing, analysing and critiquing existing customer-centred designs.
 - Taking smart risks and championing new ideas.
