@@ -4,7 +4,9 @@
 
 ## Current Openings
 
-Below you can find the current job or freelance opportunities at [Qwizzle](http://www.qwizzle.co.uk). Note that the below openings will be extented to the chosen candidate(s) on a temporary contract basis. No permanent positions of employment will be extended to any successful candidate.
+Below you can find the current job or freelance opportunities at [Qwizzle](http://www.qwizzle.co.uk). 
+
+IMPORTANT - Note that the below openings will be extented to the chosen candidate(s) on a temporary contract basis with work billed on an hourly basis. No permanent positions of employment will be extended to any successful candidate.
 
 ### 1. UI/UX Designer
 
