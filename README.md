@@ -8,7 +8,11 @@ Below you can find the current job or freelance opportunities at [Qwizzle](http:
 
 ### UI/UX Designer
 
-We are looking for a seasoned designer in both user-experience and user-interface design with demonstrable experience creating key deliverables such as detailed user journeys, user flows, wireframes, prototypes and UI design for complex web and mobile applications. The ideal candidate will have experience in:
+#### Job Description
+
+We are looking for a seasoned designer in both user-experience and user-interface design with demonstrable experience creating key deliverables such as detailed user journeys, user flows, wireframes, prototypes and UI design for complex web and mobile applications.
+
+#### Responsibilities
 
 - Translating abstract and written concepts into wireframes and mockups that lead to intuitive user experiences.
 - Facilitating a client’s product visions by researching, conceiving, wireframing, sketching, prototyping, and mocking up user experiences for digital products.
@@ -22,8 +26,17 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 - Taking smart risks and championing new ideas.
 - Actively contributing to product direction.
 
-- Collaborating with other front-end developers or experience with front end development is a bonus.
-- Individual who regularly blogs / contributes on UX/UI design best practices wll be looked upon favourably.
+#### Requirements
+
+- Three or more years of UX design experience. Preference will be given to candidates who have experience designing complex solutions for complete digital environments.
+- Expertise in UX software such as InVision, UXPin, Balsamiq, Framer.js, Quartz Composer, and the like is a must. Basic HTML5, CSS3, and JavaScript skills are a plus.
+- Ability to work with clients to understand detailed requirements and design complete user experiences that meet client needs and vision.
+- Extensive experience in using UX design best practices to design solutions, and a deep understanding of mobile-first and responsive design.
+- A solid grasp of user-centered design and testing methodologies, subsystems, and usability and accessibility concerns.
+- Ability to iterate your designs and solutions efficiently and intelligently.
+- Ability to clearly and effectively communicate design processes, ideas, and solutions to teams and clients.
+- A clear understanding of the importance of user-centered design.
+- Be passionate about all things UX and other areas of design and innovation. Research and showcase knowledge in the industry’s latest trends and technologies.
 
 #### Further Information
 
@@ -32,11 +45,9 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 
 ### Front end Developer
 
-We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.
+#### Job Description
 
-#### Experience
-
-- 
+We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works. 
 
 #### Responsibilities
 
