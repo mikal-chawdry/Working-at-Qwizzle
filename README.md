@@ -1,8 +1,28 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mikal-chawdry/Working-at-Qwizzle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Qwizzle Job Board. Below you can find the current job or freelance opportunities at Qwizzle.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### UX Designer
+
+We are looking for a seasoned user-experience designer with demonstrated experience creating key deliverables such as detailed user journeys, user flows, wireframes, prototypes and UI design for complex web and mobile applications. The ideal candidate will have experience in:
+
+- Translating abstract and written concepts into wireframes and mockups that lead to intuitive user experiences.
+- Facilitating a client’s product visions by researching, conceiving, wireframing, sketching, prototyping, and mocking up user experiences for digital products.
+- Designing and delivering wireframes, user stories, user journeys, and mockups optimized for a wide range of devices and interfaces.
+- Identifying design problems and devising elegant solutions.
+- Making strategic design and user-experience decisions related to core and new functions and features.
+- Taking a user-centered design approach and rapidly testing and iterating designs.
+- Collaborating with other front-end developers or experience with front end development is a bonus.
+- Taking smart risks and championing new ideas
+
+#### Front end Developer
+
+
+
+
+
+
+
 
 ### Markdown
 
