@@ -40,6 +40,8 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 
 #### Further Information
 
+The below link shows a subset of the current designs for the app. These need to be reviewed, critiqued improved and expanded upon.
+
 - [Current designs](https://projects.invisionapp.com/share/Q3BV59D7Y#/screens)
 
 ***
