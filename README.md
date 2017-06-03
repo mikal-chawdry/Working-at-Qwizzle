@@ -2,7 +2,7 @@
 
 Welcome to the Qwizzle Job Board. Below you can find the current job or freelance opportunities at [Qwizzle](www.qwizzle.co.uk).
 
-Qwizzle, and Edtech startup,  is on a mission to help shape the future of education through the adoption and implementation of new pedagogies, adaptive assessment, teacher-student collaboration, and detailed performance monitoring. The Qwizzle platform, which is currently in development, brings students, parents and tutors closer together in a child's educational journey.
+Qwizzle, and Edtech startup, is on a mission to help shape the future of education through the adoption of new pedagogies, adaptive assessment, teacher-student collaboration, and detailed performance monitoring. The Qwizzle platform, which is currently in development, aims to bring students, parents and teachers closer together in a child's educational journey, providing data driven insight to build up a current view of a student's ability and help shape future teaching strategies and development paths.
 
 ### UI/UX Designer
 
