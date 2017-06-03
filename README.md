@@ -2,9 +2,9 @@
 
 Welcome to the Qwizzle Job Board. Below you can find the current job or freelance opportunities at Qwizzle.
 
-### UX Designer
+### UI/UX Designer
 
-We are looking for a seasoned user-experience designer with demonstrated experience creating key deliverables such as detailed user journeys, user flows, wireframes, prototypes and UI design for complex web and mobile applications. The ideal candidate will have experience in:
+We are looking for a seasoned designer in both user-experience and user-interface design with demonstrable experience creating key deliverables such as detailed user journeys, user flows, wireframes, prototypes and UI design for complex web and mobile applications. The ideal candidate will have experience in:
 
 - Translating abstract and written concepts into wireframes and mockups that lead to intuitive user experiences.
 - Facilitating a client’s product visions by researching, conceiving, wireframing, sketching, prototyping, and mocking up user experiences for digital products.
