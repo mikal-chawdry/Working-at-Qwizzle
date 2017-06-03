@@ -68,4 +68,4 @@ We are looking for a Front-End Web Developer who is motivated to combine the art
 
 ## Interested in working on the project?
 
-If you are interested in one of the above opportunities, please get into contact with the Project Lead **Mikal Chawdry** at mikal@qwizzle.co.uk
+If you are interested in one of the above opportunities or if you believe you have the skill-set to fill both roles , please get into contact with the Project Lead **Mikal Chawdry** at mikal@qwizzle.co.uk
