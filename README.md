@@ -40,7 +40,7 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 
 #### Further Information
 
-- [Current designs](XXX)
+- [Current designs](https://projects.invisionapp.com/share/Q3BV59D7Y#/screens)
 
 ***
 
