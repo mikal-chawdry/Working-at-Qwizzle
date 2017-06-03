@@ -25,7 +25,9 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 - Collaborating with other front-end developers or experience with front end development is a bonus.
 - Individual who regularly blogs / contributes on UX/UI design best practices wll be looked upon favourably.
 
+#### Further Information
 
+- [Current designs](XXX)
 
 
 ### Front end Developer
