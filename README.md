@@ -60,7 +60,7 @@ We are looking for a Front-End Web Developer who is motivated to combine the art
 
 #### Skills And Qualifications
 
-- Advanced understanding of web markup, including HTML5, CSS3
+- Advanced understanding of web markup, including HTML5 and CSS3
 - Advanced understanding of client-side scripting and JavaScript frameworks, including jQuery
 - Advanced understanding of asynchronous request handling, partial page updates, and AJAX
 - Proficient understanding of server-side CSS pre-processing platforms, such as LESS and SASS
