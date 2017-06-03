@@ -12,15 +12,13 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 - Identifying design problems and devising elegant solutions.
 - Making strategic design and user-experience decisions related to existing and new features.
 - Taking a user-centered design approach and rapidly testing and iterating designs.
-- Reviewing, analysing and critiquing existing customer-centred designs
-- Taking smart risks and championing new ideas
-- Actively contributing to product direction
+- Reviewing, analysing and critiquing existing customer-centred designs.
+- Taking smart risks and championing new ideas.
+- Actively contributing to product direction.
+
 - Collaborating with other front-end developers or experience with front end development is a bonus.
+- Individual who regularly blogs / contributes on UX/UI design best practices wll be looked upon favourably.
 
-Additionally, the ideal caniddate will have knowledge in the following areas:
-
-- UxPin
-- InVision
 
 
 
