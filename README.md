@@ -76,6 +76,7 @@ We are looking for a Front-End Web Developer who is motivated to combine the art
 - Proficient understanding of server-side CSS pre-processing platforms, such as LESS and SASS
 - Proficient understanding of cross-browser compatibility issues and ways to work around them.
 - Proficient understanding of Git
+- Familiarity with BEM methodology
 - Good understanding of SEO principles and ensuring that application will adhere to them.
 - Experience working on Rails Applications is an advantage
 
