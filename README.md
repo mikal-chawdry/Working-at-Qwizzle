@@ -30,7 +30,7 @@ We are looking for a seasoned designer in both user-experience and user-interfac
 
 #### Requirements
 
-- Three or more years of UX design experience. Preference will be given to candidates who have experience designing complex solutions for complete digital environments.
+- Five or more years of UX design experience. Preference will be given to candidates who have experience designing complex solutions for complete digital environments.
 - Expertise in UX software such as InVision, UXPin, Balsamiq, Framer.js, Quartz Composer, and the like is a must. Basic HTML5, CSS3, and JavaScript skills are a plus.
 - Ability to work with clients to understand detailed requirements and design complete user experiences that meet client needs and vision.
 - Extensive experience in using UX design best practices to design solutions, and a deep understanding of mobile-first and responsive design.
